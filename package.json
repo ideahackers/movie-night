@@ -1,0 +1,23 @@
+{
+  "name": "movie-night",
+  "version": "1.0.0",
+  "description": "A Discord bot that makes movie nights fun",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideahackers/movie-night.git"
+  },
+  "author": "Wyatt Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ideahackers/movie-night/issues"
+  },
+  "homepage": "https://github.com/ideahackers/movie-night#readme",
+  "dependencies": {
+    "eris": "^0.12.0"
+  }
+}
